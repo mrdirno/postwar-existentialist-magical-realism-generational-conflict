@@ -1,0 +1,72 @@
+{
+  "book_id": "postwar-existentialist-magical-realism-generational-conflict",
+  "title": "The Hum at the World's Root",
+  "tagline": "A girl inherits her grandfather's ability to hear the ghosts of things, a haunting gift that tunes her to the past's persistent song in a city desperate to forget.",
+  "target_words": 69022,
+  "actual_words": 69022,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Persistence of Memory",
+    "The Haunting of History",
+    "Generational Perception of Trauma",
+    "The Music of Silent Things"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Weeping of Stones",
+      "words": 6274
+    },
+    {
+      "ch": 2,
+      "title": "A Museum of Normalcy",
+      "words": 6274
+    },
+    {
+      "ch": 3,
+      "title": "Guts Exposed, Spirits Unspooled",
+      "words": 6274
+    },
+    {
+      "ch": 4,
+      "title": "The Dry Silence of Paper",
+      "words": 6274
+    },
+    {
+      "ch": 5,
+      "title": "A Violated, Held Breath",
+      "words": 6274
+    },
+    {
+      "ch": 6,
+      "title": "The Cartographer's Sigh",
+      "words": 6274
+    },
+    {
+      "ch": 7,
+      "title": "A Fabric of Held Breath",
+      "words": 6274
+    },
+    {
+      "ch": 8,
+      "title": "The Great Bell After",
+      "words": 6274
+    },
+    {
+      "ch": 9,
+      "title": "The Obscenity of a Heartbeat",
+      "words": 6274
+    },
+    {
+      "ch": 10,
+      "title": "A Grey Seep from Memory",
+      "words": 6274
+    },
+    {
+      "ch": 11,
+      "title": "The Hum at the World's Root",
+      "words": 6274
+    }
+  ]
+}
